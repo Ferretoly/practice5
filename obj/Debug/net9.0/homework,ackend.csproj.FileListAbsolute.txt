@@ -12,3 +12,4 @@ C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\refint\homework,a
 C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.pdb
 C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.genruntimeconfig.cache
 C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\ref\homework,ackend.dll
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.sourcelink.json
