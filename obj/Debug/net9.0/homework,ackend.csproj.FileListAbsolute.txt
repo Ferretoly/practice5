@@ -1,0 +1,14 @@
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\homework,ackend\bin\Debug\net9.0\homework,ackend.exe
+C:\Users\Андрей\Desktop\homework,ackend\bin\Debug\net9.0\homework,ackend.deps.json
+C:\Users\Андрей\Desktop\homework,ackend\bin\Debug\net9.0\homework,ackend.runtimeconfig.json
+C:\Users\Андрей\Desktop\homework,ackend\bin\Debug\net9.0\homework,ackend.dll
+C:\Users\Андрей\Desktop\homework,ackend\bin\Debug\net9.0\homework,ackend.pdb
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.dll
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\refint\homework,ackend.dll
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.pdb
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\homework,ackend.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\homework,ackend\obj\Debug\net9.0\ref\homework,ackend.dll
