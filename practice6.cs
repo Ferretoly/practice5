@@ -33,9 +33,7 @@ class Program
         }
     /* практика 5 */
     Console.Write("Введите число :");
-    int number = Convert.ToInt32(Console.ReadLine());
-        
-    int i = 10;
+    int number = Convert.ToInt32(Console.ReadLine()); 
 
     if (number>1000){Console.WriteLine("Диапазон от 100 до 999");}
     else if (number<100){Console.WriteLine("Диапазон от 100 до 999");}
